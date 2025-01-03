@@ -16,11 +16,7 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['59168683798', 'Creador 👑', true],
-   ['51910234457', 'Owner 🍭', true],
-   ['573012482597'],
-   ['5351524614'],
-   ['5218711426787']
+   ['5491140951814', 'Creador 👑', true],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -36,8 +32,8 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.5'
 global.vs = '2.0.7'
 global.vsJB = '5.0'
-global.nameqr = 'Genesis-Ultra'
-global.namebot = 'gᥱᥒᥱsіs ᥙᥣ𝗍rᥲ ᰔᩚ'
+global.nameqr = 'Luffy Bot MD'
+global.namebot = 'Luffy Bot'
 global.sessions = 'GenesisSession'
 global.jadi = 'GenesisJadiBot'
 
