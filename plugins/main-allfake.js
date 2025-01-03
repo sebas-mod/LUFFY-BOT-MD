@@ -28,10 +28,10 @@ console.log(`Error : ${e}`)
 }}
 
 //creador y otros
-global.creador = 'Wa.me/5493876432076'
+global.creador = 'Wa.me/5491140951814'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
-global.namechannel = '✿ Genesis • Channel OFC ✿'
+global.asistencia = ''
+global.namechannel = 'Luffy Bot MD'
 global.listo = '✨️ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/QGAVS.jpg')
 
